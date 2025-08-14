@@ -24,7 +24,7 @@ MERN Chat is a real-time chat application built using the MERN (MongoDB, Express
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/Anga205/MERNChat.git
+    git clone https://github.com/devtejasx/MERNChat.git
     ```
 2. Navigate to the project directory:
     ```bash
